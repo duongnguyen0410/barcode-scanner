@@ -1,0 +1,62 @@
+[
+    {
+      "machineno": "DCA01",
+      "checkeddate": "2022-01-01",
+      "auditor": "John",
+      "condition": "Good"
+    },
+    {
+      "machineno": "DCA01",
+      "checkeddate": "2022-01-02",
+      "auditor": "Jane",
+      "condition": "Excellent"
+    },
+    {
+      "machineno": "DCA01",
+      "checkeddate": "2022-01-03",
+      "auditor": "Mike",
+      "condition": "Fair"
+    },
+    {
+      "machineno": "DCA01",
+      "checkeddate": "2022-01-04",
+      "auditor": "Sarah",
+      "condition": "Poor"
+    },
+    {
+      "machineno": "MC1",
+      "checkeddate": "2022-01-05",
+      "auditor": "Tom",
+      "condition": "Good"
+    },
+    {
+      "machineno": "DCA01",
+      "checkeddate": "2022-01-06",
+      "auditor": "Emily",
+      "condition": "Excellent"
+    },
+    {
+      "machineno": "MC1",
+      "checkeddate": "2022-01-07",
+      "auditor": "Chris",
+      "condition": "Fair"
+    },
+    {
+      "machineno": "MC1",
+      "checkeddate": "2022-01-08",
+      "auditor": "Lisa",
+      "condition": "Poor"
+    },
+    {
+      "machineno": "MC1",
+      "checkeddate": "2022-01-09",
+      "auditor": "Alex",
+      "condition": "Good"
+    },
+    {
+      "machineno": "MC1",
+      "checkeddate": "2022-01-10",
+      "auditor": "Olivia",
+      "condition": "Excellent"
+    }
+  ]

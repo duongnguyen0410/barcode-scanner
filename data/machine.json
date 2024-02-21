@@ -1,0 +1,100 @@
+[
+  {
+    "no": "DCA01",
+    "name": "Chiller 1",
+    "location": "D/C",
+    "condition": "Good",
+    "lastchecked": "2023-04-29"
+  },
+  {
+    "no": "DCA02",
+    "name": "Lò nung nhôm 1",
+    "location": "D/C",
+    "condition": "Good",
+    "lastchecked": "2023-05-08"
+  },
+  {
+    "no": "DCD01",
+    "name": "Máy đúc 1",
+    "location": "D/C",
+    "condition": "Good",
+    "lastchecked": "2023-06-11"
+  },
+  {
+    "no": "SOCB1",
+    "name": "Ép khoan vỏ gang AB",
+    "location": "SSO2",
+    "condition": "Good",
+    "lastchecked": "2023-04-29"
+  },
+  {
+    "no": "ASTB1",
+    "name": "Lắp ráp AB 1",
+    "location": "ASS",
+    "condition": "Good",
+    "lastchecked": "2023-05-28"
+  },
+  {
+    "no": "SOFA1",
+    "name": "Lò nung vỏ nhôm AA",
+    "location": "SSO2",
+    "condition": "Good",
+    "lastchecked": "2023-06-26"
+  },
+  {
+    "no": "PRP01",
+    "name": "Máy dập 1",
+    "location": "PR",
+    "condition": "Good",
+    "lastchecked": "2023-07-17"
+  },
+  {
+    "no": "BBMA1",
+    "name": "Máy phay H205-2",
+    "location": "BB",
+    "condition": "Good",
+    "lastchecked": "2023-07-03"
+  },
+  {
+    "no": "SFTCT1",
+    "name": "Máy vạt mặt khoan tam",
+    "location": "SFT",
+    "condition": "Good",
+    "lastchecked": "2023-05-14"
+  },
+  {
+    "no": "SFTC1",
+    "name": "Máy cặt trục Tsun",
+    "location": "SFT",
+    "condition": "Good",
+    "lastchecked": "2023-09-04"
+  },
+  {
+    "no": "WDCB1",
+    "name": "Máy cleating 1",
+    "location": "WD",
+    "condition": "Good",
+    "lastchecked": "2023-07-24"
+  },
+  {
+    "no": "WDCA3",
+    "name": "Máy chỉnh hình số 3",
+    "location": "WD",
+    "condition": "Good",
+    "lastchecked": "2023-08-07"
+  },
+  {
+    "no": "PTP02",
+    "name": "Chuyền sơn 2",
+    "location": "PAINTING",
+    "condition": "Good",
+    "lastchecked": "2023-08-20"
+  },
+  {
+    "no": "VAV01",
+    "name": "Máy Varnish 1",
+    "location": "VARNISH",
+    "condition": "Good",
+    "lastchecked": "2023-09-04"
+  }
+]
