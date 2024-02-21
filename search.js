@@ -17,6 +17,9 @@ async function Search(filePath, searchTerm) {
         return item; // If found, return the item
       }
     }
+
+    return null; // If not found, return null
+
   } catch (error) {
     console.error('Error fetching JSON data:', error);
   }
